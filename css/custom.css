@@ -50,6 +50,29 @@ h2{
 }
 footer{
 	background-color: #eee;
-
+	height: 80px;
 }
+.big{
+	height: 60px;
+	background-color: orange;
+	margin: 10px;
+}
+.medium{
+	height: 60px;
+	background-color: orange;
+	margin: 10px;
+}
+.small{
+	height: 60px;
+	background-color: orange;
+	margin: 10px;
+}
+
+.dropdown-item{
+	color: green;
+}
+.navbar{
+	background-color: goldenrod !important;
+}
+
 
